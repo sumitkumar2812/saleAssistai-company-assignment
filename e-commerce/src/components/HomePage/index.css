@@ -1,0 +1,13 @@
+.home{
+    background-color: white;
+    height: 100vh;
+}
+.product-list{
+    display: flex;
+    justify-content: space-around;
+}
+.loding{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

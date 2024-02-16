@@ -1,0 +1,28 @@
+.product-card{
+    height: 15vh;
+    width: 15vw;
+}
+
+
+.image{
+    height: 160px;
+    width: 160px;
+}
+
+.price-dis{
+    display: flex;
+}
+.discount{
+    padding-top: 20px;
+    font-size: 15px;
+    text-decoration: line-through;
+}
+.percent{
+    padding-top: 20px;
+    font-size: 15px;
+    color: green;
+}
+.price-para{
+    
+    font-size: 20px;
+}
